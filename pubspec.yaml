@@ -1,0 +1,12 @@
+name: dart_utils
+description: A dart package with handy utilities
+version: 0.0.1
+homepage: https://github.com/dhmgroup/dart-utils
+
+environment:
+    sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+    test: ^1.14.2
